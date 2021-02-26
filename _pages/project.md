@@ -1,4 +1,3 @@
 ---
 permalink: /projects/
-layout: pages
 ---

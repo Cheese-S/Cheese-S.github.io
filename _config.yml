@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin2   : "dark"
 # Site Settings
 locale                   : "en-US"
 title                    : "Chen's Rabbit Hole Journey"
@@ -95,10 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "Chencheng Yang"
-  avatar           : /assets/images/masthead-logo.jpg
-  bio              : "While(true):\n 
-                            Learn...\n
-                            Code..."
+  avatar           : /assets/images/real-cheese.png
+  bio              : "<pre><pre/>"
   location         : "Long Island, NY"
   # email            : Chencheng.yang@stonybrook.edu
   links:
@@ -286,7 +284,7 @@ defaults:
       share: true
       related: true
   # _pages
-   - scope:
+  - scope:
       path: ""
       type: pages
     values:
