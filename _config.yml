@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 minimal_mistakes_skin2   : "dark"
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen's Rabbit Hole Journey"
+title                    : "Rabbit Hole Journey"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chencheng Yang"
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -96,13 +96,10 @@ analytics:
 author:
   name             : "Chencheng Yang"
   avatar           : /assets/images/real-cheese.png
-  bio              : "<pre><pre/>"
+  bio              : "Something is different... Learn! Code! Game!"
   location         : "Long Island, NY"
-  # email            : Chencheng.yang@stonybrook.edu
+  email            : Chencheng.yang@stonybrook.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "Chencheng.yang@stonybrook.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -266,6 +263,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# collections list
+collections:
+  projects: 
+    output: true
+    permalink: /:collection/:path/
+  readings:
+
 
 
 # Defaults
