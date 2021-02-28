@@ -5,7 +5,7 @@ title: About
 ---
 ## About Me
 
-Hey! It's me, Chencheng Yang, an up and coming software engineer (hopefully) who is currently studying in Stonybrook University and wishing to take part in creating something exciting in the future. 
+Hey! It's me, Chencheng Yang, a Celtics fan and an up and coming software engineer (hopefully) who is currently studying in Stonybrook University and wishing to take part in creating something exciting in the future. 
 
 Even though I have not fully decided which career path I would take yet, I am interested in building robust software / useful AI to solve problems. 
 
