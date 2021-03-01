@@ -1,11 +1,11 @@
 ---
-permalink: /about/
+permalink: /About/
 layout: posts
 title: About
 ---
 ## About Me
 
-Hey! It's me, Chencheng Yang, a Celtics fan and an up and coming software engineer (hopefully) who is currently studying in Stonybrook University and wishing to take part in creating something exciting in the future. 
+Hey! It's me, Chencheng Yang, an up-and-coming software engineer (hopefully) who is currently studying at Stonybrook University and wishing to take part in creating something exciting in the future.
 
 Even though I have not fully decided which career path I would take yet, I am interested in building robust software / useful AI to solve problems. 
 
@@ -23,6 +23,15 @@ Feel free to email me: chencheng.yang@stonybrook.edu
 * AI Algorithms
 * Algorithm Analysis 
 * MIPS Assembly
+
+### Fun Facts 
+
+* A human, not a piece of cheese.
+* Got into programming because of microcontrollers and BASIC. 
+* A Boston Celtics fan who resides in New York.
+* High School Chess club president who was not very good at chess.
+* Volunteered at a nursing home.
+* A Playstation, Nintendo Switch, and PC fanantic.
 
 ---
 
