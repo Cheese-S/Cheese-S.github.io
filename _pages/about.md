@@ -1,5 +1,5 @@
 ---
-permalink: /About/
+permalink: /
 layout: posts
 title: About
 ---
@@ -26,12 +26,12 @@ Feel free to email me: chencheng.yang@stonybrook.edu
 
 ### Fun Facts 
 
-* A human, not a piece of cheese.
-* Got into programming because of microcontrollers and BASIC. 
-* A Boston Celtics fan who resides in New York.
-* High School Chess club president who was not very good at chess.
-* Volunteered at a nursing home.
-* A Playstation, Nintendo Switch, and PC fanantic.
+* Chen is a human, not a piece of cheese.
+* As a generation Z kid, Chen got into programming because of microcontrollers and Visual BASIC. 
+* Chen is a guilty Celtics fan who lives in New York
+* Although Chen was the chess club president in his high school, he was not very good at the game. 
+* Chen volunteered at a nursing home for two years. 
+* Chen is a Playstation, Nintendo Switch, and PC games fanatic. 
 
 ---
 

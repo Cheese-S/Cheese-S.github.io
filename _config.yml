@@ -170,7 +170,8 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - /test # ignore Minimal Mistakes /test\
+  - index.html
 keep_files:
   - .git
   - .svn
