@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Chencheng Yang"
   avatar           : /assets/images/real-cheese.png
-  bio              : "I am real!? Learn! Code! Game!"
+  bio              : "Learn.:books: Code.:computer: Game.:video_game:"
   location         : "Long Island, NY"
   email            : Chencheng.yang@stonybrook.edu
   links:
@@ -197,6 +197,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: katex 
 
 
 # Sass/SCSS
@@ -219,7 +220,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-katex
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: posts
+layout: single
 title: About
 ---
 ## About Me
@@ -24,14 +24,12 @@ Feel free to email me: chencheng.yang@stonybrook.edu
 * Algorithm Analysis 
 * MIPS Assembly
 
-### Fun Facts 
+### Trivias 
 
-* Chen is a human, not a piece of cheese.
-* As a generation Z kid, Chen got into programming because of microcontrollers and Visual BASIC. 
-* Chen is a guilty Celtics fan who lives in New York
-* Although Chen was the chess club president in his high school, he was not very good at the game. 
-* Chen volunteered at a nursing home for two years. 
-* Chen is a Playstation, Nintendo Switch, and PC games fanatic. 
+* Actually a human, not a piece of cheese. 
+* A Nintendo Fanantic 
+* A generational Z kid that got into programming because of microcontrollers and Visual BASIC. 
+* Despite being not that good at chess, I managed to become the chess club president.
 
 ---
 
@@ -39,9 +37,9 @@ Feel free to email me: chencheng.yang@stonybrook.edu
 
 At such an early stage of my career, it is not unusual for me to encounter something that I possess zero knowledge of. More often than not, while trying to understand that "something", I find myself ignorant in the face of another thing. 
 
-Thus, this website is built. It acts as a blog/journal of my experience of going down one rabbit hole after another. May this website serve to shine some lights for my fellow learner.  
+Thus, this website is built. It acts as a blog/journal of my experience of going down one rabbit hole after another. May this website serve to shine some lights for my fellow learners.  
 
-At last, a cheesy yet effective inspirational quote from one of my favorite movies, <em>Whiplash</em>
+At last, a cheesy yet inspirational quote from one of my favorite movies, <em>Whiplash</em>
 
 >But is there a line? You know, maybe you go too far and discourage the next Charlie Parker from ever becoming Charlie Parker?
 
