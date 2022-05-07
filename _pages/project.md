@@ -6,7 +6,7 @@ permalink: /projects/
 
 - A MERN stack application that enables users to not only create and share their comics/stories but also engage with their communities. 
     - **Backend Developer & Deployment**
-      - Solely responsible for the design and implementation of the backend. 
+      - Solely responsible for the design and implementation of the RESTful backend api. 
       - Deployed both frontend and backend on an AWS EC2 instance using NGNIX Reverse Proxy Server. 
   
 ### [Xeno](https://xeno-dec54.web.app/menu.html)
