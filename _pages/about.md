@@ -7,7 +7,7 @@ title: About
 
 Hey! It's me, Chencheng Yang, an up-and-coming software engineer (hopefully) who is currently studying at Stonybrook University and wishing to take part in creating something exciting in the future.
 
-Even though I have not fully decided which career path I would take yet, I am interested in building robust software / useful AI to solve problems. 
+Even though I have not fully decided which career path I would take yet, I have worked on a few projects that covers fields including Game Development, Web development, and backend development. 
 
 Feel free to email me: chencheng.yang@stonybrook.edu
 
@@ -15,14 +15,20 @@ Feel free to email me: chencheng.yang@stonybrook.edu
 * Java
 * MySQL
 * Python
+* Javascript / Typescript
+* C / C++
+* Vue
+* React
+* MongoDB / Mongoose
+* Unreal Engine
+* AWS EC2
+* MySQL
+* Node JS
 
 ### Things that I am currently learning
-* C/C++
-* Tensor Flow 
-* HTML/CSS
-* AI Algorithms
-* Algorithm Analysis 
-* MIPS Assembly
+* Blender
+* Unity
+* Software Design Patterns & Structure
 
 ### Trivias 
 

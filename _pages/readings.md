@@ -4,6 +4,9 @@ title: Reading List
 ---
 This is a list of all the programming related books / papers I have read (or am reading) and truly recommend. There is no particular order in which each item is listed. 
 
+### General
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
 ### C
 - [C Programming Language, 2nd Edition Book by Brian Kernighan and Dennis Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 
