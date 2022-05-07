@@ -4,15 +4,17 @@ permalink: /projects/
 
 ### [Bluepage](https://github.com/Cheese-S/Bluepage)
 
-- A web platform that enables users to not only create and share their comics/stories but also engage with their communities. 
-    - **Backend Developer**
+- A MERN stack application that enables users to not only create and share their comics/stories but also engage with their communities. 
+    - **Backend Developer & Deployment**
       - Solely responsible for the design and implementation of the backend. 
+      - Deployed both frontend and backend on an AWS EC2 instance using NGNIX Reverse Proxy Server. 
   
 ### [Xeno](https://xeno-dec54.web.app/menu.html)
 
 - A 2D tower defense game made using stonybrook's own game engine Wolfie2D.
   - **Main Developer**
     - Responsible for everything other than arts. 
+    - Deployed on firebase. 
 
 ### [K-Means](https://github.com/Cheese-S/CSE381_Final)
 
